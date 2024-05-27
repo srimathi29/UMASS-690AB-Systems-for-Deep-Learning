@@ -1,0 +1,3 @@
+# UMASS-690AB-Systems-for-Deep-Learning
+https://sites.google.com/umass.edu/spring2024-compsci690ab/home
+This course is designed to provide a comprehensive understanding of computer systems architecture that supports deep learning workloads. It assumes students have prior knowledge on computer systems, algorithms, and Python/C/C++ programming background. In the course, we will study the full-stack system design to support deep learning, covering topics from the high-level programming frameworks to low-level kernel implementations. We will also introduce cutting-edge research on efficient and scalable deep learning model training, inference, and serving.
